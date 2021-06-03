@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of the Bishop of Ely to his clergy</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56678</idno><idno type="EEBO-CITATION">12851247</idno>
+  <idno type="VID">94525</idno>
+  <idno type="EEBO-PROQUEST">2248515812</idno>
+  
+            <idno type="STC">Wing P821</idno>
+            <idno type="STC">ESTC R33028</idno>
+            <idno type="OCLC">12851247</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1038:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of the Bishop of Ely to his clergy</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCII [1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 8 signed: Simon Eliensis, April 20, 1692.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Pastoral letters and charges.</term>
+               <term type="topical_term">Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94525:1"/>
+            <pb facs="tcp:94525:1"/>
+            <p>A LETTER OF THE Bishop of Ely, TO HIS CLERGY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ric. Chiswell,</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCXCII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:94525:2"/>
+            <pb n="3" facs="tcp:94525:2"/>
+            <head>A LETTER OF THE BISHOP of ELY, TO HIS CLERGY.</head>
+            <opener>
+               <salute>My Dear Brethren,</salute>
+            </opener>
+            <p>THAT the Visitation, I shortly intend, may be more easie to my self and more profitable to my Diocess; I have thought fit to desire a few things of you be<g ref="char:EOLhyphen"/>fore-hand.</p>
+            <p n="1">I. It would be a good Preparation to the enquiries I am then to make, if you would call your selves to an account, how you have performed the several parts of the duty incumbent on you: and if you find you have been negligent, to resolve upon and immedi<g ref="char:EOLhyphen"/>ately begin, a sincere reformation I am not able to mention them all in a short Letter; but the very first thing in the <hi>Book of Common Prayer</hi> deserves to be seriously considered: where you are enjoyned <hi>to say daily the Morning and Evening Prayer, either private<g ref="char:EOLhyphen"/>ly or openly,</hi> &amp;c. It is posible I am sure to observe one part of this Injunction, if you cannot observe the other. That <note place="margin">Rubrick 2. 3. after the Preface concerning the Service of the Church.</note> is; if you cannot procure a Congregation to meet daily in the Church; yet you may, and therefore ought, to read the Service of the Church in your own Families, either <hi>privately or openly, not being hin<g ref="char:EOLhyphen"/>dred by Sickness, or some other urgent cause;</hi> which cannot happen every day. This, if solemnly performed, would be a powerful means, to preserve an awful sense of God continually upon your Minds, and to make <hi>your selves and your Families wholsome Examples to the
+<pb n="4" facs="tcp:94525:3"/> f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock of Christ;</hi> as you promise<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o endeavour at your <hi>Ordination.</hi>
+            </p>
+            <p>Read over the Vowes you then made, and the Charge which was then given you: and examine your selves faithfully how you ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e observed them. Which would save me the labour, either of metioning all other particulars of your duty here, or making long exhortations to you, when I meet you at the visitation: All being comprised in the Promises you made at that time; if they be di<g ref="char:EOLhyphen"/>stin<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly pondered.</p>
+            <p>If I had therefore but one Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uest to make to you, it should be this; that every Morning, the first thing you do, you would call to mind, that you are the Ministers of Jesus Christ; who have made such and such promises to him, when you were admitted into his Serv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: which if you grant me, it could not fail to have a great effect upon your hearts and lives. For how could any man neglect to Preach the Word of God diligently, to Catechise the Children, visit the Sick, reconcile Differences and all the rest, with due care and fidelity, when he had it always in his mind; that <hi>this is his business,</hi> and that he promised to God before his people, that he would make this his business, and conscientiously attend it? you cannot think of appearing before our Lord and Master, with any confidence, if you have not made good your word to him.</p>
+            <p n="2">II. I am loath to suppose, that any who have sworn Alleigeance to their present Majesties, neglect to observe the <hi>Monthly Fasts</hi> ap<g ref="char:EOLhyphen"/>pointed by their Authority, to implore Gods Blessing upon their Persons, and the Prosperity of their Arms. But there being re<g ref="char:EOLhyphen"/>ports that some are guilty of such scandalous Omissions, in several parts of this Kingdom; I beseech you to take care that there be no such complaint made to me of any in my Diocess. And let me not find that any omit the Use of that <hi>Form of Prayer,</hi> which is enjoyned on that occasion: after which I will make a solemn en<g ref="char:EOLhyphen"/>quiry and am commanded so to do.</p>
+            <p n="3">III. I hope you received, two year ago, a <hi>Letter of his Maje<g ref="char:EOLhyphen"/>sties to the B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shop of London,</hi> ordred to be communicated to both Provinces of <hi>Canterbury and York.</hi> Wherein he requires all the Bishops to keep a strict watch over their Clergy; and more par<g ref="char:EOLhyphen"/>ticularly to order them to preach frequently against those sins and Vices which are most prevailing in this Realm. As namely against <hi>Blasphemy, Swearing and Cursing;</hi> against <hi>Perjury;</hi> against <hi>Drunkenness;</hi> and against <hi>Profanation of the Lords day.</hi> And in those Lords-day's on which such Sermons are preached, to read also to the
+<pb n="5" facs="tcp:94525:3"/> people such <hi>Statutes</hi> of this Realm, as are provided against that Vice, which is their Subject on that day: Which <hi>Statutes</hi> were printed together with that <hi>Letter,</hi> and ordred to be transmitted to every Parish in both <hi>Provinces.</hi> I most earnestly entreat you to observe these injunctions: for they were not intended for that year only: but to continue till we saw the blessed effects of them in a hearty Reformation.</p>
+            <p>And for your better direction in this matter, let me desire you to observe this method. On the <hi>Sunday Sennight</hi> before the Assi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, it will be most proper to read the Act of Parliament against PER<g ref="char:EOLhyphen"/>JURY and to preach upon that Subject. On the <hi>second Sunday</hi> in <hi>May</hi> it will be seasonable to read the Act for the Observation of the LORD<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s-DAY, and exhort your Parishioners to the religious ob<g ref="char:EOLhyphen"/>servation of it. On the <hi>first Sunday</hi> in <hi>Advent</hi> read the Act against BLASPHEMY, <hi>Swearing and Cursing,</hi> and preach against those sins. On the <hi>Fourth Sunday</hi> in <hi>Lent,</hi> against the sins of ADULTERY and FORNICATION. It hath been intended that <hi>Homilies</hi> be pro<g ref="char:EOLhyphen"/>vided for all these days: but till they be, let every one furnish himself with Sermons upon these Heads, and continue this course from-year to year.</p>
+            <p n="4">IV. There have been such foul practices, in <hi>Cland-stine Mar<g ref="char:EOLhyphen"/>riages</hi> that they produced lately a <hi>Bill</hi> in Parliament: which if it had passed into an <hi>Act</hi> would have faln very heavily upon us all; and cast no small reproach upon us, for standing in need of such severe means for our Reformation. Which if we would avoid, let us observe the <hi>Canons of the Church</hi> exactly; and there will be no such abuses to be corrected, by any body but our selves alone. I resolve, by God's Grace, to observe that part of them which concerns me; by proceeding against him, as a person suspended for three years <hi>ipso facto,</hi> who shall offend against the LXII. Ca<g ref="char:EOLhyphen"/>non. I hope you will as carefully <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bserve your part, which is (as you may there read) not to marry any persons without <hi>asking in the Church,</hi> or such a <hi>License</hi> as the Law allows: and at no hour but between VIII. and XII. in the forenoon; nor in any <hi>place</hi> but in the Church or Chappel where one of the parties dwell; and not without consent of <hi>Parents</hi> or <hi>Guardians,</hi> if the parties, to be mar<g ref="char:EOLhyphen"/>ried, be under the Age of one and Twenty years.</p>
+            <p>Let no Person, under the colour of any <hi>peculiar Liberty or Pri<g ref="char:EOLhyphen"/>viledge,</hi> belonging to the Church or Chappel, presume to do other<g ref="char:EOLhyphen"/>wise: for the Penalty of Suspension for <hi>three</hi> year, will notwith<g ref="char:EOLhyphen"/>standing fall upon him, as he may learn by the next Canon LXIII. which I am resolved to see put in Execution.</p>
+            <p n="5">
+               <pb n="6" facs="tcp:94525:4"/>V. And now let me prevail with you to take some paines, where you find it necessary, with your <hi>Church-wardens,</hi> to convince them of the Obligation that is laid upon them, by a solemn Oath, to make a faithful Answer to my Enquiries, which shall be as few, as may be, that they may be the better able to give satisfaction to every one of them.</p>
+            <p>It would be a great comfort to me, as well as credit to this Church, to find the usual Answer, true: But pray them to consi<g ref="char:EOLhyphen"/>der what a guilt they bring upon their Souls, if they say, <hi>All things are well,</hi> and as they ought to be; when they know, in their Consciences, that many things are quite otherwise. Beseech them, as they love their own Souls, not to increase the Sins of the Nati<g ref="char:EOLhyphen"/>on, when we are endeavouring to reform them.</p>
+            <p n="6">VI. Particularly, press them earnestly, and assist them, to pre<g ref="char:EOLhyphen"/>sent to me all those, who profess to live in the Communion of our Church, and are of Age, and yet neglect to receive the Holy Com<g ref="char:EOLhyphen"/>munion; at least, 3 times in the Year, as by Law they are bound to do. For such People not only <hi>wrong their own Souls,</hi> as the wise Man speaks; but bring a great scandal upon our Church and Reli<g ref="char:EOLhyphen"/>gion. For what other Christians are there in the World, who suffer their Members to live without any solemn regard to their blessed Lord and Master, who dyed for them? As all those do, who never commemorate his wonderful Love, by receiving the holy Sacrament of his Body and Blood. For the Lord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s sake, let this gross neglect be amended.</p>
+            <p>And let me prevail with you, to put in practice the <hi>first Rubrick</hi> before the Communion Office; which directs all those who intend to partake of the holy Communion, to <hi>signifie their Names to the Curate, at least some time the da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> before.</hi> That he may both know, what quantity of Bread and W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne is necessary to be provided for Communicants; and also, discourse with those young Persons, who may need instru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, and admonish those who <hi>are notorious and open evil▪ liver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> or have any way injured their Neighbours (as the <hi>next Rubrick</hi> directs) to abstain from the Lord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Table, till they have openly declared their sincere purpose of amendment, and made satis<g ref="char:EOLhyphen"/>faction for the wrong they have done This would be the more ea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to perform; if as many as intend to Communicate, would be perswaded (as I hope without much difficulty they may) to come to the publick Prayers, which I beseech you never fail to have in the Church, on the <hi>Wednesdays, Frid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ys,</hi> and <hi>Saturdays,</hi> before
+<pb n="7" facs="tcp:94525:4"/> the Communion: however you may want a Congregation at other times. And in great and Market Towns, if not in others, I hope you may be able to keep up <hi>monthly Communions,</hi> as well as Prayers on all <hi>Wednesdays</hi> and <hi>Fridays.</hi>
+            </p>
+            <p n="7">VII. There is another thing, in which both you and the Church-wardens are concerned; of which I beseech you due care may be taken. Which is, to bring in to me or to the Arch-deacon at his next Visitation, a <hi>Terr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r</hi> of the <hi>Gl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>be-lands, Meadows, Gardens, Orchards,</hi> and all other things belonging to your Parsonage or Vicaridge: with an account of any <hi>Customs of Tithings</hi> which have been used among you: That so, the Maintenance provided for God's Ministers, by our pious Ancestors, may be preserved.</p>
+            <p>It is so great a sin and shame, to let those Buildings which they erected for the Service of God, and for our Commodious Habita<g ref="char:EOLhyphen"/>tion, run to decay; that I must desire you likewise to in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orm me truly, whether both the Church and Chancel of your Parish, and also your own Houses, and out-Houses, be in good repair. It makes my Heart ake, I assure you, to think that any of us should so far degenerate from our worthy Progenitors, as not to uphold those Fabricks in a good condition, which they raised from the Ground with great Cost and Charges.</p>
+            <p>Let us all indeavour to redeem our selves from this infamy.</p>
+            <p>It would be very useful also, to have an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nventory under your and the Church-wardens Hands, of all the Utensils belonging to your Church: which I desire you to deliver unto me, or unto my Arch-deacon, at his next Visitation, to be kept in the Registers Of<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce. Of this the Arch-bishop hath required me to take an Ac<g ref="char:EOLhyphen"/>count.</p>
+            <p n="8">VIII. And now let me beseech your conscientious Care in some things which concern my self, as well as you.</p>
+            <p n="1">I. It is my duty to <hi>Confirm</hi> such as are prepared for it; which that it may be done to Edification, and all disorders and crowds may then be avoided; I pray you to take notice, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will Con<g ref="char:EOLhyphen"/>firm none, but such whose Names shall be given to me in Writing, by you the Ministers of the several Parishes, from whence they come: with a Certificate under yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Hands, that you have exami<g ref="char:EOLhyphen"/>ned them, and find them not only able to repeat the Words of the <hi>Church Catechism;</hi> but also sensible of the solemn Vow which was made in their Names at their Baptism; and desirous to renew the
+<pb n="8" facs="tcp:94525:5"/> same themselves. Let it be your endeavour therefore to dispose the young People of your Parish unto this: by representing to them the Necessity, and the Benefit thereof.</p>
+            <p>And for the better performance of it, I design to Confirm as frequently, as I am able: not only in my Visitation (when we have so much other Bu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ness, that I desire those only who are near, then to a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tend me) but at other times, and in such Churches as I shall be advised to be most convenient: where those in the Neigh<g ref="char:EOLhyphen"/>bourhood, who are fit to be Confirmed, may be appointed to re<g ref="char:EOLhyphen"/>sort unto me.</p>
+            <p n="2">II. Giving Holy Orders is another weighty Care of mine; about which I cannot be too solicitous: and wherein I must beg your as<g ref="char:EOLhyphen"/>sistance. And <hi>First,</hi> I intreat you not to set your Hands to the Testimonial of any Person, but upon your own certain knowledge of his Life and Conversation, for the space of 3 year next before, as the XXXIV. Canon requires. It would much conduce to re<g ref="char:EOLhyphen"/>strain young Men from Vice, if they had no hope to gain a Testi<g ref="char:EOLhyphen"/>monial of their <hi>good life and behaviour,</hi> from the easiness or civility of their Neighbours, or any other means, but merely from their own known Vertue. Make a Conscience of this, and it will go a great way to reform the Church. And <hi>Secondly,</hi> do not send any Person to me with <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n empty Title:</hi> For I will admit none to Orders, upon a Curacy; unless it be a competency, to be continued till he be otherways provided for. And <hi>Lastly,</hi> let me desire you to sig<g ref="char:EOLhyphen"/>nifie unto such, as you find desirous to be put into Holy Orders, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pect they come to me, or certifie me of their intentions, a Month at least before <hi>Ordination Sunday:</hi> That I may be able to give notice of it, to the Parish or Place where they live; that if they have any impediment to object, why they should not be admitted, I may have timely information of it.</p>
+            <p>For there cannot be too much care taken, that the Flock of Christ be not committed into the Hands of bad Men; but such may be set over them, as will <hi>watch for their Souls, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eing youthful Lusts, will follow Righteousness, Faith, Charity, Peace, with them that out of a pure heart call upon the Lord,</hi> XIII. Hebr. 17. 2 Tim. II. 22.</p>
+            <p>Unto whose Grace and Blessing, I do most heartily commend you, and your Labours.</p>
+            <closer>
+               <dateline>
+                  <date>April 20. 1692.</date>
+               </dateline>
+               <signed>SIMON ELIENSIS.</signed>
+            </closer>
+            <pb facs="tcp:94525:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
